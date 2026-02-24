@@ -2,32 +2,31 @@
 
 **Technical Lead** based in Manchester, UK
 
-I specialise in cloud-native architecture, integration systems, and DevOps tooling. I enjoy building platforms that help developers learn and ship better software.
+I specialise in cloud-native architecture, AI tooling, and developer platforms. I enjoy building tools that help developers learn and ship better software.
 
 ## What I'm Working On
 
+- **[agent-skill-catalog](https://github.com/Danomanic/agent-skill-catalog)** - Community-driven catalog of reusable AI agent skills
 - **[ginnel](https://github.com/Danomanic/ginnel)** - Learning platform built with TypeScript
-- **[coly](https://github.com/Danomanic/coly)** - Code Online, Learn Yourself - Software Engineering and DevOps learning platform
 - **[proven](https://github.com/Danomanic/proven)** - Test-first code generation with LLMs
 
 ## Technologies
 
 ```
-Languages:      TypeScript, JavaScript, Java, Go, Python
-Infrastructure: AWS Lambda, Consul, Nomad, Terraform
-Interests:      Service mesh, API gateways, serverless, cloud-native design
+Languages:      TypeScript, JavaScript, Python, Java, Go
+Infrastructure: AWS Lambda, Terraform, Nomad, Consul
+Interests:      AI tooling, LLM-driven development, cloud-native design, developer experience
 ```
 
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [egerton](https://github.com/Danomanic/egerton) | Halo Infinite Discord Bot |
-| [linuxgsm-nomad](https://github.com/Danomanic/linuxgsm-nomad) | Nomad jobs for deploying game servers |
-| [foots](https://github.com/Danomanic/foots) | Running shoe comparison website |
-| [osm-node](https://github.com/Danomanic/osm-node) | Node.js package for Online Scout Manager API |
-| [ynab-sms](https://github.com/Danomanic/ynab-sms) | YNAB budget updates via SMS |
-| [homelab](https://github.com/Danomanic/homelab) | Home lab infrastructure config |
+| [agent-skill-catalog](https://github.com/Danomanic/agent-skill-catalog) | Reusable, model-agnostic prompt snippets for AI agents |
+| [proven](https://github.com/Danomanic/proven) | Test-first code generation with LLMs |
+| [ginnel](https://github.com/Danomanic/ginnel) | Learning platform built with TypeScript |
+| [coly](https://github.com/Danomanic/coly) | Code Online, Learn Yourself - Learning platform |
+| [lifecafe](https://github.com/Danomanic/lifecafe) | Modern POS system for cafes |
 
 ## Connect
 
